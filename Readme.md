@@ -49,5 +49,4 @@ Assumes MongoDB is running locally on default port
 Normalizes trading symbols by trimming and converting to uppercase
 Data consistency depends on source data quality
 
-Contact
-For questions, contact Saksham at saksham@data-hat.com
+
